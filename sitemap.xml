@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://diamondyazilim.com/</loc>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/index.php</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/kurumsal.php</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/referanslar.php</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/iletisim.php</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=web_tasarim</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=web_yazilim</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=mobil_uygulama</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=seo</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=kurumsal_kimlik</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=logo_tasarimi</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=e_ticaret</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://diamondyazilim.com/hizmetlerimiz.php?service=urun_tanitimi</loc>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+</urlset>

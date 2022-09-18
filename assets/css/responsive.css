@@ -1,0 +1,238 @@
+/* TABLET */
+
+@media (min-width: 0px) and (max-width: 1030px) 
+{
+
+}
+
+/* ------------------------------------------------------------------- */
+
+/* MOBIL */
+
+@media (min-width: 0px) and (max-width: 750px)
+{
+	section#mobile{
+        display: block;
+
+    }
+    div.wrapper header section#mobile a.logo_1{
+        display: block;
+    }
+    header div.menu {
+        display: block;
+    }
+    header a.logo{
+    	display: none;
+    }
+    header div.ag{
+    	display: none;
+    }
+    header{
+    	height: 60px;
+	    margin: 0px;
+	    z-index: 11;
+	    background: #fff !important;
+	    position: fixed;
+	    top: 0px;
+	    left: 0px;
+	    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	    background: none;
+    }
+    section#slider{
+    	margin-top: 60px;
+    	height: 250px;
+    }
+    section#slider div.slider_bottom{
+    	display: none;
+    }
+    section#slider div.nav{
+    	bottom: 20px;
+    }
+    nav{
+    	display: none;
+    }
+    section#bizkimiz div.right{
+    	width: 100%;
+    	margin-bottom: 15px;
+    	height: 200px;
+    }
+    section#bizkimiz div.right div.karikatur{
+    	height: 150px;
+    	background-size: 100% 150px !important;
+    }
+    section#bizkimiz div.left{
+    	width: 100%;
+    }
+    section#bizkimiz{
+    	margin-top: 20px;
+    }
+    section#hizmetlerimiz div.photo div.hizmet div.title{
+    	font-size: 20px;
+    }
+    section#hizmetlerimiz div.photo div.hizmet div.maddeler a{
+    	font-size: 13px;
+    	padding: 8px 20px;
+    }
+    section#hizmetlerimiz div.photo div.hizmet{
+	    padding: 20px 15px;
+    }
+    section#hizmetlerimiz div.photo div.photo_karikatur{
+    	height: 300px;
+    	background-size: 100% 300px !important;
+    }
+    section#ebulten div.left div.photo div.mask div.title{
+    	font-size: 20px;
+    }
+    section#ebulten div.left div.photo div.mask div.form{
+    	width: 100%;
+    	padding: 0px 0px;
+    	margin-top: 0px;
+    	text-align: center;
+    }
+    section#ebulten div.left{
+    	width: 100%;
+    }
+    section#ebulten{
+    	margin-top:15px;
+    }
+    section#ebulten div.left div.photo div.mask{
+    	width: 100%;
+    	height: 100%;
+    	background: #fff !important;
+    	opacity: 0.8;
+    }
+    section#ebulten div.left div.photo div.mask div.title{
+    	padding:20px 0px;
+    	text-align: center;
+    }
+    section#ebulten div.left div.photo div.mask div.form input{
+    	width: 90%;
+    	float: none;
+    	display: inline-table;
+    }
+    section#ebulten div.left div.photo{
+    	height: 260px;
+    }
+    footer{
+    	margin-top: 20px;
+    }
+    footer div.kap div.boxes{
+    	width: 100%;
+    }
+    footer div.alt_footer{
+    	height: auto;
+    	text-align: center;
+    }
+    
+    footer div.kap div.boxes{
+    	text-align: center;
+    }
+    footer div.kap div.boxes div.box{
+    	float: none;
+    	display: inline-table;
+    	margin-right: 0px;
+    }
+    footer div.kap div.boxes div.box:last-child{
+    	float: none;
+    	display: inline-table;
+    }
+    section#hizmetlerimiz div.photo{
+    	height: 360px !important;
+    	min-height: auto;
+    }
+    section#hizmetlerimiz div.photo div.photo_blue_left{
+    	display: none;
+    }
+    section#hizmetlerimiz div.photo div.photo_bottom{
+    	display: none;
+    }
+
+    /*KURUMSAL*/
+	section#content{
+		margin-top: 30px;
+	}
+    section#content div.left{
+    	display: none;
+    }
+    div.selectbox{
+    	display: block;
+    }
+    section#content div.right{
+    	width: 100%;
+    }
+    section#content div.right div.title{
+    	text-align: center;
+    	padding-right: 0px;
+    }
+    section#ekip{
+    	margin-top: 20px;
+    }
+    section#ekip div.boxes{
+    	margin-top: 10px;
+    }
+    section#ekip div.boxes div.box{
+    	width: 100%;
+    }
+    section#content div.right div.text{
+    	padding-left: 0px;
+    }
+    section#content div.boxes div.box{
+    	width: 100%;
+    }
+    section#pagetitle{
+    	margin-top: 60px;
+    	height: 120px;
+    }
+    section#pagetitle div.pagetitle_bottom{
+    	display: none;
+    }
+    section#pagetitle div.title{
+    	bottom: 15px;
+    }
+    section#iletisim_info{
+    	background: #7effff !important;
+    	padding-bottom: 20px;
+    }
+    section#iletisim_info div.information{
+    	width: 100%;
+    	margin-top: 20px;
+    }
+    section#iletisim_info div.information div.title{
+    	text-align: center;
+    	font-size: 23px;
+    }
+    section#iletisim_form{
+    	background: #568989 !important;
+    	margin-top: 0px;
+    	min-height: 600px;
+    }
+    section#iletisim_form div.formation{
+    	width: 100%;
+    }
+    section#iletisim_form div.formation div.title{
+    	text-align: center;
+    	font-size: 23px;
+    }
+    section#iletisim_form div.formation{
+    	margin-top: 20px;
+    }
+    
+}
+@media (min-width: 0px) and (max-width: 270px)
+{
+	header section#mobile a.logo_1 {
+    width: 160px;
+    height: 75px;
+	}
+}
+@media (min-width: 0px) and (max-width: 440px)
+{
+	footer div.alt_footer div.designed{
+    	float: none;
+    	display: inline-table;
+    }
+    footer div.alt_footer a.diamondyazilim-logo{
+    	float: none;
+    	display: inline-table;
+    }
+}
